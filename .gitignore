@@ -1,0 +1,4 @@
+.appengine_datastore
+.appengine_storage
+*.pyc
+LICENSE
